@@ -1,2 +1,15 @@
-# ThanosSlayer
-A simple NFT browser game where we can mint our NFTs and play with those, currently build on top of Ethereum test network (Rinkeby). Build with Solidity, React.js, Alchemy, Pinata and deployed with Replit.
+# Basic Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat accounts
+npx hardhat compile
+npx hardhat clean
+npx hardhat test
+npx hardhat node
+node scripts/sample-script.js
+npx hardhat help
+```
